@@ -1,6 +1,6 @@
 ![Async Logo](https://raw.githubusercontent.com/caolan/async/master/logo/async-logo_readme.jpg)
 
-![Github Actions CI status](https://github.com/caolan/async/actions/workflows/ci.yml/badge.svg)
+![Github Actions CI status](https://github.com/Unity-Billal-mesloub/async/actions/workflows/ci.yml/badge.svg)
 [![NPM version](https://img.shields.io/npm/v/async.svg)](https://www.npmjs.com/package/async)
 [![Coverage Status](https://coveralls.io/repos/caolan/async/badge.svg?branch=master)](https://coveralls.io/r/caolan/async?branch=master)
 [![Join the chat at https://gitter.im/caolan/async](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/caolan/async?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
