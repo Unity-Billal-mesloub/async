@@ -17,7 +17,7 @@ A pure ESM version of Async is available as [`async-es`](https://www.npmjs.com/p
 
 For Documentation, visit <https://caolan.github.io/async/>
 
-*For Async v1.5.x documentation, go [HERE](https://github.com/caolan/async/blob/v1.5.2/README.md)*
+*For Async v1.5.x documentation, go [HERE](https://github.com/Unity-Billal-mesloub/async/blob/v1.5.2/README.md)*
 
 
 ```javascript
